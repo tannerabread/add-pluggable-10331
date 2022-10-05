@@ -1,0 +1,11 @@
+{
+  "auth": {
+    "addpluggable2e4773eb": {
+      "service": "Cognito",
+      "serviceType": "imported",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
